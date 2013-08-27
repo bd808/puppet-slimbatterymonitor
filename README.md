@@ -1,6 +1,6 @@
 # SlimBatteryMonitor Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-slimbatterymonitor.png?branch=master)](https://travis-ci.org/boxen/puppet-slimbatterymonitor)
+[![Build Status](https://travis-ci.org/bd808/puppet-slimbatterymonitor.png?branch=master)](https://travis-ci.org/bd808/puppet-slimbatterymonitor)
 
 ## Usage
 
